@@ -1,5 +1,6 @@
 #USTB Encyclopedic Search System
-## ess: CodeIgniter
-## local: 
-### ess-python
-### pywikipedia
+Web-based management site able to sync wiki template data with MediaWiki API and integrate dedicated, search-friendly data copy
+### ess: CodeIgniter
+### local: 
+ess-python
+pywikipedia
