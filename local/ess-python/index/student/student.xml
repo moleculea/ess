@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parameter>
+<name_01 type="NAME">姓名</name_01><img_01 type="IMG">图像名称</img_01><wtext_01 type="WTEXT">学生组织</wtext_01><wtext_02 type="WTEXT">部门</wtext_02><name_02 type="NAME">职位</name_02><date_01 type="DATE">出生年月</date_01><date_02 type="DATE">毕业年份</date_02><cat type="CAT"></cat></parameter>

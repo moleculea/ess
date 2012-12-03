@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parameter>
+<name_01 type="NAME">名称</name_01><img_01 type="IMG">图像名称</img_01><wtext_01 type="WTEXT">隶属</wtext_01><wtext_02 type="WTEXT">下属部门</wtext_02><unit_01 type="UNIT">成员数</unit_01><cat type="CAT"></cat></parameter>

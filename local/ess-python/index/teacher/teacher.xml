@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parameter>
+<name_01 type="NAME">姓名</name_01><img_01 type="IMG">图像名称</img_01><date_01 type="DATE">出生年月</date_01><name_02 type="NAME">籍贯</name_02><name_03 type="NAME">学术职称</name_03><name_04 type="NAME">学位</name_04><name_05 type="NAME">政治面貌</name_05><date_02 type="DATE">工作年份</date_02><wtext_01 type="WTEXT">讲授课程</wtext_01><unit_01 type="UNIT">评价分数</unit_01><wtext_02 type="WTEXT">任职单位</wtext_02><cat type="CAT"></cat></parameter>

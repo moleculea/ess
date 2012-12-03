@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parameter>
+<name_01 type="NAME">标题</name_01><img_01 type="IMG">图像名称</img_01><wtext_01 type="WTEXT">学院</wtext_01><date_01 type="DATE">成立时间</date_01><wtext_02 type="WTEXT">系主任</wtext_02><wtext_03 type="WTEXT">专业设置</wtext_03><cat type="CAT"></cat></parameter>

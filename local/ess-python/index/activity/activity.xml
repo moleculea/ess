@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parameter>
+<name_01 type="NAME">活动名称</name_01><img_01 type="IMG">图像名称</img_01><name_02 type="NAME">类别</name_02><wtext_01 type="WTEXT">举办方</wtext_01><date_01 type="DATE">起始年份</date_01><name_03 type="NAME">举办频率</name_03><name_04 type="NAME">最近届次</name_04><cat type="CAT"></cat></parameter>

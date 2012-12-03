@@ -1,0 +1,4 @@
+# -*- coding: utf-8 -*-
+import os
+command = u'/usr/bin/python /var/local/pywikipedia/replace.py "{{{" "{{{ " -savenew:/var/local/pywikipedia/infoboxlist.txt -always -lang:en -verbose'.encode('utf-8')
+os.system(command+u' -cat:信息框模板');

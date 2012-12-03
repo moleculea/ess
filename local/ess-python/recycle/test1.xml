@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <name1 type="VARCHAR">姓名</name1>
+  <image1 type="TEXT">图像名称</image1>
+  <birth type="DATE">出生年月</birth>
+  <name2 type="VARCHAR">籍贯</name2>
+  <name3 type="VARCHAR">学术职称</name3>
+  <name4 type="VARCHAR">学位</name4>
+  <name5 type="TEXT">任职单位</name5>
+  <work type="DATE">工作年份</work>
+  <score type="NUM">评价分数</score>
+  <title1 type="TEXT">讲授课程</title1>
+</parameters>
