@@ -1,7 +1,7 @@
 ﻿# -*- coding: utf-8 -*-
 """
 Python scripts of initial page indexation for USTB-ESS
-An Shichao 2012-02-07
+
 """
 from xml.dom.minidom import parse # for XMLmakeList
 from xml.dom.minidom import getDOMImplementation # for WikiToXML
