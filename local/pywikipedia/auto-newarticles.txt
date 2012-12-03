@@ -1,0 +1,6 @@
+AAAA
+'''Template:LastestArticlesAuto'''
+<!--Auto created content by Mitsuki Kojima -->
+* ﻿[[微机原理及应用 (消歧义)]] · [[数据结构 (北京科技大学计算机科学与技术系课程)]] · [[信息与计算科学]]
+<noinclude>[[Category:模板]]</noinclude>
+BBBB
