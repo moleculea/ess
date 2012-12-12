@@ -19,7 +19,7 @@ destHost = "wiki.ibeike.com"
 XMLmakeList
 This class uses minidom to parse a local XML file into a list, each element of which is a three-element( [ text, tagName, typeName ] )
 """
-class XMLmakeList:
+class XMLmakeList(object):
     def __init__(self, fileName):
         self.dom = parse(fileName)
     
@@ -42,7 +42,7 @@ class XMLmakeList:
 """
 WikiToXML
 """
-class WikiToXML:
+class WikiToXML(object):
     def __init__(self, pageText, pageTitle, xmlFilename, cat):
         object = XMLmakeList(xmlFilename) # initialize DTPM P file
         parameters = object.makeList()
@@ -135,7 +135,7 @@ class WikiToXML:
 PageTitle
 Yield single page titles captured from local file of page lists
 """        
-class PageTitle:
+class PageTitle(object):
     def __init__(self, listFilename):
         self.listFilename = listFilename
         listFile = open(listFilename, 'r')
@@ -152,7 +152,7 @@ class PageTitle:
 HashDirectory
 16*16 two-layer hash directories
 """          
-class HashDirectory:
+class HashDirectory(object):
     def __init__(self,basedir):
         self.basedir = basedir # set the base directory
         self.subdir1 = str(hex(random.randint(0,15)))[2:]
@@ -167,7 +167,7 @@ class HashDirectory:
 DTPM
 DTPM engine for value manipulation, along with WikiToXML
 """     
-class DTPM:
+class DTPM(object):
     def __init__(self,type,value,digit = ""):
         self.DTPM_type = ('NAME','DATE','WTEXT','NUM','UNIT','CMT','IMG','CAT') 
         # initialize DTPM types into a tuple
